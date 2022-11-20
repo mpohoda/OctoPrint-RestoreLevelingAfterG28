@@ -14,7 +14,7 @@ plugin_package = "octoprint_restorelevelingafterg28"
 plugin_name = "Restore Leveling After G28"
 
 # The plugin's version. Can be overwritten within OctoPrint's internal data via __plugin_version__ in the plugin module
-plugin_version = "1.1.0"
+plugin_version = "1.1.0b1"
 
 # The plugin's description. Can be overwritten within OctoPrint's internal data via __plugin_description__ in the plugin
 # module
@@ -27,7 +27,9 @@ plugin_author = "Xennis"
 plugin_author_email = "code@xennis.org"
 
 # The plugin's homepage URL. Can be overwritten within OctoPrint's internal data via __plugin_url__ in the plugin module
-plugin_url = "https://github.com/Xennis/OctoPrint-RestoreLevelingAfterG28"
+# Oriiginal URL
+# plugin_url = "https://github.com/Xennis/OctoPrint-RestoreLevelingAfterG28"
+plugin_url = "https://github.com/mpohoda/OctoPrint-RestoreLevelingAfterG28"
 
 # The plugin's license. Can be overwritten within OctoPrint's internal data via __plugin_license__ in the plugin module
 plugin_license = "MIT"
