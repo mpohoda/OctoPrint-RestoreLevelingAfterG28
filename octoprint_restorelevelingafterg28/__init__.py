@@ -19,7 +19,7 @@ class RestoreLevelingAfterG28Plugin(OctoPrintPlugin):
 			self._logger.debug("Keep leveling disabled".format(**locals()))
 			return
 
-		cmd = "M420 S1"
+		cmd = "M420 S1 Z2"
 		self._logger.debug("Re-enable leveling: {cmd}".format(**locals()))
 		self._printer.commands(cmd, tags=tags)
 
