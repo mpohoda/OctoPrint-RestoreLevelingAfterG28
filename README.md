@@ -18,7 +18,7 @@ Install via the bundled [Plugin Manager](https://docs.octoprint.org/en/master/bu
 or manually using this URL:
 
 ```
-https://github.com/Xennis/OctoPrint-RestoreLevelingAfterG28/archive/master.zip
+https://github.com/mpohoda/OctoPrint-RestoreLevelingAfterG28/archive/master.zip
 ```
 
 ## Configuration
