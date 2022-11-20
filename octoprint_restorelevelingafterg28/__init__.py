@@ -61,7 +61,7 @@ class RestoreLevelingAfterG28Plugin(OctoPrintPlugin):
 				current=self._plugin_version,
 
 				# update method: pip
-				pip="https://github.com/Xennis/OctoPrint-RestoreLevelingAfterG28/archive/{target_version}.zip"
+				pip="https://github.com/mpohoda/OctoPrint-RestoreLevelingAfterG28/archive/{target_version}.zip"
 			)
 		)
 
